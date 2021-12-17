@@ -1,0 +1,25 @@
+.fundo {
+    background-image: url(../IMG/abacate.jpg) ;
+    
+}
+li{
+    color: white;
+    
+} 
+.outro {
+        background-color: rgb(85, 173, 76);
+
+}
+.c{
+    height: 450px;
+    margin: auto;
+}
+.card{
+    border: black solid 1px;
+}
+ul{
+    border: black solid 0px;
+}
+.list-group-item{
+    border: black solid 1px;
+}
